@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <item name="orange" type="color">#ffff9e33</item>
+  <item name="statusbar" type="color">#C2185B</item>
+  <item name="actionbar" type="color">#E91E63</item>
+<item name="search" type="color">#D81B60</item>
+
+</resources>
